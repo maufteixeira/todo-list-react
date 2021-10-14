@@ -3,4 +3,6 @@
 
 # Lista de Tarefas em React JS
 
-Exemplo de projeto para criar lista de tarefas com ReactJS
+Exemplo de projeto para criar lista de tarefas com ReactJS.
+
+https://maufteixeira-todo-list.netlify.app/
